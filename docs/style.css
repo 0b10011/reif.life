@@ -67,7 +67,8 @@ nav > a:hover {
 	outline: .5em solid #999;
 }
 nav img {
-	display: block;
+	display: inline-block;
+	vertical-align: bottom;
 	width: 10em;
 	height: 11.6em;
 }
